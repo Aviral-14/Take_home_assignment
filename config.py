@@ -1,6 +1,5 @@
 # config.py
-##OPENAI_API_KEY = "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"
-#DATA_PATH = "D:\Assignment\data"
+
 #EMBEDDINGS_PATH = "D:\Assignment\embeddings"
 #OUTPUTS_PATH = "D:\Assignment\output"
 #MODEL_NAME = "text-embedding-ada-002"  # OpenAI embedding model
